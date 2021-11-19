@@ -5,3 +5,5 @@ notebooks to build train and run the models.
 
 My dataset is available at https://www.kaggle.com/rexhaif/emojifydata-en and requires the preprocessing
 I perform in the various python files.
+
+All code here is original and written by me.
